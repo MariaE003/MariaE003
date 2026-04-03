@@ -1,5 +1,6 @@
-# Hi, I'm Maria Elgotby 👋
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=4A90E2&size=28&center=true&vCenter=true&lines=Hi%2C+I'm+Maria+Elgotby;Full+Stack+Developer;Laravel+%7C+React" />
+</p>
 💻 Full-Stack Web Developer | Student  
 🌱 Passionate about building modern web applications 🚀 Always learning new technologies  
 

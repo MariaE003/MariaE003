@@ -54,18 +54,6 @@
 
 ---
 
-## 📊 Statistiques GitHub
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=radical" />
-</p>
-
----
-
 ## 🌱 Actuellement
 
 - 🔍 Je travaille sur des projets avec Laravel & React  

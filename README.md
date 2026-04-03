@@ -66,26 +66,29 @@
 
 ---
 
-## 💡 Citation
+## 🌱 Actuellement
 
-> "JavaScript est le langage de programmation le plus incompris au monde."  
-> — Douglas Crockford  
-
----
-
-## 🚀 Projets
-
-- 🔗 Projet 1 : Description rapide  
-- 🔗 Projet 2 : Description rapide  
-- 🔗 Projet 3 : Description rapide  
+- 🔍 Je travaille sur des projets avec Laravel & React  
+- 📚 J’apprends davantage sur les APIs REST et PostgreSQL  
+- 🛠️ Je développe mes compétences en architecture backend  
 
 ---
 
-## 🎯 Objectif actuel
+## 🤝 Soft Skills
 
-```js
-const maria = {
-  currentFocus: "Améliorer mes compétences en Laravel et React",
-  learning: ["Advanced Backend", "APIs REST", "PostgreSQL"],
-  goals: ["Créer des projets professionnels", "Trouver un stage PFA"]
-};
+- 💡 Esprit analytique  
+- 🤝 Travail en équipe  
+- ⏱️ Gestion du temps  
+- 🚀 Motivation et autonomie  
+
+---
+
+## 🌟 Petit plus
+
+✨ Toujours motivée pour apprendre, créer et relever de nouveaux défis dans le développement web.
+
+---
+
+<p align="center">
+✨ Merci de visiter mon profil ✨
+</p>
